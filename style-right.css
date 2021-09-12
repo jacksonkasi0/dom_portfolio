@@ -1,0 +1,51 @@
+.right {
+  top: 520px;
+  left: 72%;
+  position: absolute;
+  height: 200px;
+  margin-left: -300px;
+}
+
+.logo-right {
+  background-color: rgb(67, 65, 66);
+  height: 70px;
+  width: 70px;
+  top: 20px;
+  /* margin-left: 40px; */
+  /* text-align: center; */
+  border-radius: 50%;
+  /* border: 8px solid rgb(250,190,40); */
+}
+
+.logo-right i {
+  color: rgb(250, 190, 40);
+  font-size: 40px;
+  margin-top: 12px;
+  text-align: center;
+  justify-self: center;
+}
+
+.logo-right > h1 {
+  margin-top: -37px;
+  margin-left: 85px;
+  display: absolute;
+  font-size: 40px;
+  color: rgb(87, 87, 87);
+}
+
+.para-1 {
+  margin-top: 10px;
+  margin-left: 40px;
+  font-size: 20px;
+  color: #242625;
+  line-height: 30px;
+  text-align: start;
+}
+
+.list2 {
+  margin-left: 40px;
+}
+
+.bottom {
+  margin-top: 6%;
+}

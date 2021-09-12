@@ -1,0 +1,138 @@
+* {
+  margin: 0;
+}
+
+.header-1 {
+  background-color: rgb(97, 97, 97);
+  display: flex;
+  height: 460px;
+}
+
+.header-2 {
+  background-color: whitesmoke;
+  height: 50px;
+  width: 100%;
+  top: 350px;
+  position: absolute;
+}
+
+.user-image {
+  border: 8px dotted rgb(250, 190, 40);
+  border-radius: 50%;
+  height: 250px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 60px;
+}
+
+.button-primary {
+  background-color: rgb(250, 190, 40);
+  color: #242625;
+  font-size: 80px;
+  font-weight: 500;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: -50px;
+}
+
+.p_1 {
+  text-align: center;
+  font-size: 20px;
+  color: #242625;
+  line-height: 40px;
+}
+
+.vertical {
+  border-left: 3px solid rgb(160, 160, 160);
+  position: absolute;
+  left: 50%;
+  margin-top: 25px;
+  height: 180vh;
+}
+
+.logo {
+  background-color: rgb(67, 65, 66);
+  height: 70px;
+  width: 70px;
+  top: 20px;
+  border-radius: 50%;
+}
+
+.logo i {
+  color: rgb(250, 190, 40);
+  font-size: 40px;
+  margin-top: 12px;
+  text-align: center;
+  justify-self: center;
+}
+
+.logo_outer {
+  border: 8px dotted rgb(250, 190, 40);
+  height: 70px;
+  width: 70px;
+  top: 20px;
+  margin-left: 40px;
+  text-align: center;
+  border-radius: 50%;
+}
+
+.logo > h1 {
+  color: rgb(87, 87, 87);
+  margin-top: -37px;
+  margin-left: 85px;
+  display: absolute;
+  font-size: 40px;
+}
+
+.container {
+  margin-left: 40px;
+  width: 46%;
+  margin-top: 20px;
+  font-size: 20px;
+  color: #242625;
+  line-height: 30px;
+  text-align: start;
+}
+
+.strong-tittle {
+  font-size: 20px;
+  width: 50%;
+  color: rgb(10, 8, 8);
+  margin-left: 13%;
+  text-align: center;
+  align-self: center;
+  display: apsolute;
+}
+
+.list {
+  margin-left: 25px;
+}
+
+table {
+  margin-left: 40px;
+  width: 40%;
+  text-align: center;
+}
+
+tr {
+  text-align: start;
+  align-items: center;
+}
+
+.table-1 input {
+  margin-left: 4%;
+}
+
+.table-2 input {
+  margin-left: -28%;
+}
+
+input {
+  text-align: start;
+  align-self: flex-start;
+}
